@@ -1,0 +1,4 @@
+[root]
+name = "rust_ffi_example"
+version = "0.0.1"
+
